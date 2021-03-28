@@ -1,0 +1,26 @@
+# Elektra-SAMD21E18A development board parts list
+
+| PCB part designators | Quantity | Digikey PN | Manufacturer PN |
+| ---------------------| -------- | ---------- | --------------- |
+| J1 | 1 | 609-4616-1-ND | 10118193-0001LF |
+| D2 | 1 | SMA6J11AHR3GCT-ND | SMA6J11AHR3G |
+| F1 | 1 | 507-1787-1-ND | 0ZCH0075FF2G |
+| D1 | 1 | APD240KDTR-G1DICT-ND | APD240KDTR-G1 |
+| TVS1 | 1 | NUP2114UPXV5T1GOSCT-ND | NUP2114UPXV5T1G |
+| C1* | 1 | 311-1680-1-ND | CC0402JRX7R9BB472 |
+| R1* | 1 | 311-1.00MLRCT-ND | RC0402FR-071ML |
+| U1 | 1 | 497-17854-1-ND | LDL212DR |
+| C2, C3, C4, C5, C7, C8, C9 | 7 | 587-1785-1-ND | JMK107BJ475KA-T |
+| R4 | 1 | RR08P22.0KDCT-ND | RR0816P-223-D |
+| R2, R3 | 2 | RR08P62.0KDCT-ND | RR0816P-623-D |
+| U2 | 1 | MCP1754T-3302E/OTCT-ND | MCP1754T-3302E/OT |
+| LEDxx | 20 | - | APA102C** |
+| U3 | 1 | ATSAMD21E18A-AUTCT-ND | ATSAMD21E18A-AUTCT |
+| C10 | 1 | 1276-1444-1-ND | CL05A105JQ5NNNC |
+| C6, C11 | 2 | 311-1338-1-ND | CC0402KRX7R7BB104 |
+| R5 | 1 | 311-1.00KLRCT-ND | RC0402FR-071KL |
+| R6, R7, R8, R9, R10 | 5 | P330LCT-ND | ERJ-2RKF3300X |
+| J2 | 1 | 952-3577-ND | M50-3030542 |
+| Programmer/Debugger | 1 | ATATMEL-ICE-BASIC-ND | ATATMEL-ICE-BASIC |
+
+\* Optional for added protection against noise and transients.
